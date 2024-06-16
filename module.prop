@@ -1,0 +1,6 @@
+id=powershell
+name=Windows PowerShell
+version=7.4.2
+versionCode=742
+author=Der_Googler
+description=The Windows PowerShell Module is a tool that integrates PowerShell functionality into Android devices via the Magisk framework, allowing users to run PowerShell scripts and commands directly on their rooted devices.
